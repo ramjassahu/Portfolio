@@ -15,7 +15,7 @@ Currently studing in 3rd year IIT Guwahati, Ramjas Sahu has a strong foundation 
 **Higher Secondary School**  
 *March 2019 - July 2021*
 
-### GL Bajaj Institute of Technology and Management
+### Indian Institute of Technology Guwahati
 **Bachelor of Technology (B.Tech) in Electronics and Electrical Engineering**  
 *Graduated: 2026*
 
