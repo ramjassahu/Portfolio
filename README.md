@@ -42,7 +42,7 @@ Currently studing in 3rd year IIT Guwahati, Ramjas Sahu has a strong foundation 
 
 - **Mobile**: *****
 - **Email**: [ramjasjdh31@gmail.com](mailto:ramjasjdh31@gmail.com)
-- **Portfolio**: [Rudrafolio](https://github.io/ramjassahu)
+- **Portfolio**: [portfolio website](https://github.io/ramjassahu)
 
 ---
 
