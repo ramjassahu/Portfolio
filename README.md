@@ -3,7 +3,7 @@
 ---
 
 ## Summary
-Currently studing in 3rd year IIT Guwahati, Ramjas Sahu has a strong foundation in computer science with practical experience in various programming languages and software development. Notable projects include zcoder,josaa_project.
+Currently studing in 3rd year(Electronics and Electrical Engineering) of IIT Guwahati, Ramjas Sahu has a strong foundation in computer science with practical experience in various programming languages and software development. Notable projects include zcoder,josaa_project.
 
 ---
 
@@ -25,7 +25,8 @@ Currently studing in 3rd year IIT Guwahati, Ramjas Sahu has a strong foundation 
 
 - **zcoder.
 - **josaa_data_analysis.
-- **Airlines.
+- **EduColab.
+- **Airlines
 
 ---
 
