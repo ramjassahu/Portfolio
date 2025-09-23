@@ -1,4 +1,4 @@
-/*  import google fonts */
+/* import google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 
 *{
@@ -35,10 +35,11 @@ section{
     padding: 0 80px;
     margin: auto;
 }
-.about, .projects, .skills, .Education, .contact, footer{
+.about, .experience, .projects, .skills, .Education, .contact, footer{
     font-family: 'Poppins', sans-serif;
 }
 .about .about-content,
+.experience .exp-content,
 .projects .proj-content,
 .skills .skills-content,
 .Education .Education-content,
@@ -267,6 +268,56 @@ section .title::after{
     background: none;
 }
 
+/* experience section styling */
+.experience h2{
+	font-weight: 700;
+}
+.experience, .Education{
+    color: #fff;
+    background: #111;
+}
+.experience .title::before,
+.Education .title::before{
+    background: #fff;
+}
+.experience .title::after,
+.Education .title::after{
+    background: #111;
+    content: "WHAT I DID";
+	font-weight: 600;
+}
+.experience .exp-content .card{
+    width: calc(100% - 30px);
+    background: #222;
+    text-align: center;
+    border-radius: 6px;
+    padding: 50px 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.experience .exp-content .card:hover{
+    background: #00D1D1;
+}
+.experience .exp-content .card .box{
+    transition: all 0.3s ease;
+}
+.experience .exp-content .card:hover .box{
+    transform: scale(1.05);
+}
+.experience .exp-content .card i{
+    font-size: 55px;
+    color: #00D1D1;
+    transition: color 0.3s ease;
+}
+.experience .exp-content .card:hover i{
+    color: #fff;
+}
+.experience .exp-content .card .text{
+    font-size: 25px;
+    font-weight: 500;
+    margin: 10px 0 7px 0;
+}
+
 /* projects section styling */
 .projects h2{
 	font-weight: 700;
@@ -293,6 +344,7 @@ section .title::after{
     padding: 50px 25px;
     cursor: pointer;
     transition: all 0.3s ease;
+    margin-bottom: 20px;
 }
 .projects .proj-content .card:hover{
     background: #00D1D1;
